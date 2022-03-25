@@ -5,4 +5,4 @@ No começo faço um dataset.head para visão dos nomes das colunas, assim como o
 
 Na sequência um lista com os artista, faixa musical e o seu alcance em popularidade.
 
-Trabalhei também com a visualização em tabelas, popularidade, tempo (min), loudness, danceability, energy e última tabela speechiness, acousticness, instrumentalness.
+Trabalhei também com a visualização em tabelas, popularidade, tempo (min), loudness, danceability, energy e na última tabela speechiness, acousticness, instrumentalness.
